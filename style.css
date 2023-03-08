@@ -161,8 +161,8 @@ html.light body {
   color: #333;
 }
 html.dark .page__theme {
-  background: url("/img/sun.svg") 0 0 / 100% no-repeat;
+  background: url("img/sun.svg") 0 0 / 100% no-repeat;
 }
 html.light .page__theme {
-  background: url("/img/moon.svg") 0 0 / 100% no-repeat;
+  background: url("img/moon.svg") 0 0 / 100% no-repeat;
 }
